@@ -3,6 +3,7 @@
 This is a landing page for CS559 Computer Graphics so that you see something if you come here. You are probably looking for a specific page for a specific version of the class.
 
 Things you might actually be looking for:
++ The [Spring 2023 CS559 Course Web Page](https://pages.graphics.cs.wisc.edu/559-sp22/)
 + The **Fall 2022 CS559 Course Web** (no external web page)
 + The [Spring 2022 CS559 Course Web Page](https://pages.graphics.cs.wisc.edu/559-sp22/)
 + The **Fall 2021 CS559 Course Web** (no external web page)
